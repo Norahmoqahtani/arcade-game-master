@@ -25,4 +25,4 @@ Demo:
 To play the game:
 ---------------
 To play the game you must run the index.html file in a browser.
-> [Check it in github](https://github.com/norahqahtani11/arcade-game-master).
+> [Check it in github](https://github.com/Norahmoqahtani/arcade-game-master).
